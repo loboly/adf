@@ -2,3 +2,4 @@ fmkorea.com##.powerlink
 fmkorea.com##.ad-top
 fmkorea.com##[id^="div-gpt-ad"]
 fmkorea.com##[class*="ad"]
+fmkorea.com##body > :first-child
